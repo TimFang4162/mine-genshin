@@ -1,4 +1,15 @@
-/*
-!readme.md
-!.gitignore
-!config\slightguimodifications
+patched_shaders
+replay_recordings
+replay_videos
+.fabric
+shaderpacks
+voxelmap
+server-resource-packs
+logs
+PCL
+saves
+mods
+crash-reports
+.replay_cache
+schematics
+1.17.1-Fabric 0.12.12-natives
