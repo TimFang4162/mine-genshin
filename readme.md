@@ -12,7 +12,7 @@
 
 ## 版本与依赖
 
-- Minecraft 1.17.1 (理论上 它应该通用 1.13+的所有版本)
+- Minecraft 1.17.1
 - Fabric
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 - ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) 及其附属依赖
