@@ -25,6 +25,8 @@
 4. 将`config/slightguimodifications`替换进您的模组配置文件夹(config)
 5. 启动游戏, Enjoy it!
 
+> Tips: 主菜单样式在游戏画面(注意 不是游戏窗口) 16:9 时效果最好
+
 ## 版本兼容性
 
 | Mod Name                   | Min Version | Max Version |
